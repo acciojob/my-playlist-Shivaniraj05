@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+.player_one{
+	background-color:white;
+	padding:15px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+.player_two{
+	background-color:white;
+	width:49%;
+	margin:auto;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	
+}
